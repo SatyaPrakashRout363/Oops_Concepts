@@ -10,3 +10,15 @@ C:\Users\Satyaprakash_Rout\source\repos\Oops_Concepts\Oops_Concepts\obj\Debug\ne
 C:\Users\Satyaprakash_Rout\source\repos\Oops_Concepts\Oops_Concepts\obj\Debug\net6.0\refint\Oops_Concepts.dll
 C:\Users\Satyaprakash_Rout\source\repos\Oops_Concepts\Oops_Concepts\obj\Debug\net6.0\Oops_Concepts.pdb
 C:\Users\Satyaprakash_Rout\source\repos\Oops_Concepts\Oops_Concepts\obj\Debug\net6.0\ref\Oops_Concepts.dll
+C:\C# Selenium\Oops_Concepts\Oops_Concepts\bin\Debug\net6.0\Oops_Concepts.deps.json
+C:\C# Selenium\Oops_Concepts\Oops_Concepts\bin\Debug\net6.0\Oops_Concepts.dll
+C:\C# Selenium\Oops_Concepts\Oops_Concepts\bin\Debug\net6.0\Oops_Concepts.pdb
+C:\C# Selenium\Oops_Concepts\Oops_Concepts\obj\Debug\net6.0\Oops_Concepts.csproj.AssemblyReference.cache
+C:\C# Selenium\Oops_Concepts\Oops_Concepts\obj\Debug\net6.0\Oops_Concepts.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Selenium\Oops_Concepts\Oops_Concepts\obj\Debug\net6.0\Oops_Concepts.AssemblyInfoInputs.cache
+C:\C# Selenium\Oops_Concepts\Oops_Concepts\obj\Debug\net6.0\Oops_Concepts.AssemblyInfo.cs
+C:\C# Selenium\Oops_Concepts\Oops_Concepts\obj\Debug\net6.0\Oops_Concepts.csproj.CoreCompileInputs.cache
+C:\C# Selenium\Oops_Concepts\Oops_Concepts\obj\Debug\net6.0\Oops_Concepts.dll
+C:\C# Selenium\Oops_Concepts\Oops_Concepts\obj\Debug\net6.0\refint\Oops_Concepts.dll
+C:\C# Selenium\Oops_Concepts\Oops_Concepts\obj\Debug\net6.0\Oops_Concepts.pdb
+C:\C# Selenium\Oops_Concepts\Oops_Concepts\obj\Debug\net6.0\ref\Oops_Concepts.dll
