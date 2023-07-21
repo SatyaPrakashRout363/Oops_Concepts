@@ -1,0 +1,12 @@
+C:\Users\Satyaprakash_Rout\source\repos\Oops_Concepts\Oops_Concepts\bin\Debug\net6.0\Oops_Concepts.deps.json
+C:\Users\Satyaprakash_Rout\source\repos\Oops_Concepts\Oops_Concepts\bin\Debug\net6.0\Oops_Concepts.dll
+C:\Users\Satyaprakash_Rout\source\repos\Oops_Concepts\Oops_Concepts\bin\Debug\net6.0\Oops_Concepts.pdb
+C:\Users\Satyaprakash_Rout\source\repos\Oops_Concepts\Oops_Concepts\obj\Debug\net6.0\Oops_Concepts.csproj.AssemblyReference.cache
+C:\Users\Satyaprakash_Rout\source\repos\Oops_Concepts\Oops_Concepts\obj\Debug\net6.0\Oops_Concepts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Satyaprakash_Rout\source\repos\Oops_Concepts\Oops_Concepts\obj\Debug\net6.0\Oops_Concepts.AssemblyInfoInputs.cache
+C:\Users\Satyaprakash_Rout\source\repos\Oops_Concepts\Oops_Concepts\obj\Debug\net6.0\Oops_Concepts.AssemblyInfo.cs
+C:\Users\Satyaprakash_Rout\source\repos\Oops_Concepts\Oops_Concepts\obj\Debug\net6.0\Oops_Concepts.csproj.CoreCompileInputs.cache
+C:\Users\Satyaprakash_Rout\source\repos\Oops_Concepts\Oops_Concepts\obj\Debug\net6.0\Oops_Concepts.dll
+C:\Users\Satyaprakash_Rout\source\repos\Oops_Concepts\Oops_Concepts\obj\Debug\net6.0\refint\Oops_Concepts.dll
+C:\Users\Satyaprakash_Rout\source\repos\Oops_Concepts\Oops_Concepts\obj\Debug\net6.0\Oops_Concepts.pdb
+C:\Users\Satyaprakash_Rout\source\repos\Oops_Concepts\Oops_Concepts\obj\Debug\net6.0\ref\Oops_Concepts.dll
